@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="mailto:joelg1014@hotmail.com">📧 joelg1014@hotmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/joel-guerrero">🔗 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/joel-guerrero0826/">🔗 LinkedIn</a> &nbsp;·&nbsp;
   📍 Panamá
 </p>
 ---
@@ -107,7 +107,7 @@ Big Data / BI        █████████████░░░░░░�
 Abierto a colaborar en proyectos de **cloud**, **arquitectura de software**, **DevSecOps** y **automatización de infraestructura**.
  
 <p align="center">
-  <a href="https://linkedin.com/in/joel-guerrero">
+  <a href="https://www.linkedin.com/in/joel-guerrero0826/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
