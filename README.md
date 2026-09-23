@@ -7,9 +7,9 @@
 Trabajo en gobierno cloud en banca regional, desarrollo software en organismos internacionales y doy clases de programación.
 Me gusta que la arquitectura, la automatización y la seguridad se diseñen juntas desde el principio, no como parches al final.
 
-<a href="https://portfolio-1a3e7.web.app/es"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/joel-guerrero0826/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:joelg1014@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portfolio-1a3e7.web.app/es" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logoColor=red" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/joel-guerrero0826/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:joelg1014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
