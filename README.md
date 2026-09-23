@@ -1,189 +1,304 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=☁️+Cloud+Governance+Specialist;🔐+DevSecOps+Engineer;💻+Senior+Full+Stack+Developer;🚀+AWS+%7C+Azure+%7C+OCI+Expert;⚡+Terraform+%7C+Kubernetes+%7C+CI%2FCD;🧠+Clean+Architecture+%7C+DDD)
+# 👋 Hola, soy Joel Guerrero
 
-<img src="https://komarev.com/ghpvc/?username=joguerrero10&color=00f7ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="profile views"/>
+### Cloud Governance Specialist · Senior Software Engineer · DevSecOps
+
+Diseño y construyo soluciones de software **seguras, escalables y automatizadas**, combinando arquitectura de software, cloud, DevOps y desarrollo full stack.
+
+<br/>
+
+<a href="https://portfolio-1a3e7.web.app/es">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/joel-guerrero0826/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:joelg1014@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=joguerrero10&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
+## 🧑‍💻 Sobre mí
+
+Soy **Ingeniero en Sistemas** especializado en desarrollo de software, arquitectura, cloud y automatización.
+
+Actualmente trabajo en iniciativas relacionadas con **Cloud Governance**, mientras continúo desarrollando soluciones de software y profundizando en arquitectura, DevSecOps y seguridad.
+
+Mi enfoque combina:
+
+* 🏗️ **Software Architecture**
+* ☁️ **Multi-Cloud**
+* ⚙️ **DevOps & CI/CD**
+* 🔐 **DevSecOps & Cloud Security**
+* 🧩 **Clean Architecture & DDD**
+* 🚀 **Microservices**
+* 🏭 **Infrastructure as Code**
+* 📊 **Data & Analytics**
+
+Me interesa especialmente construir plataformas donde **arquitectura, automatización, seguridad y negocio trabajen como una sola unidad**.
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+Experiencia trabajando con diferentes ecosistemas cloud y herramientas de automatización:
+
 <div align="center">
 
-```typescript
-const joel: SeniorEngineer = {
-  nombre:      "Joel Guerrero",
-  ubicacion:   "🇵🇦 Panamá",
-  rol:         "Cloud Governance Specialist & Senior Developer",
-  clouds:      ["☁️ AWS", "🔵 Azure", "🟠 Oracle Cloud (OCI)"],
-  iac:         ["Terraform", "Docker", "Kubernetes"],
-  lenguajes:   ["Java", "Python", "JavaScript", "TypeScript", "PHP"],
-  cicd:        ["Azure DevOps", "GitHub Actions", "CI/CD Pipelines"],
-  foco:        "Multi-cloud Governance + Clean Architecture + DDD",
-  filosofia:   "Automatizar todo · Documentar siempre · Mejorar cada día 🔁",
-};
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+**Cloud**
+
+`AWS` · `Microsoft Azure` · `Oracle Cloud Infrastructure (OCI)`
+
+**Infrastructure & Platform**
+
+`Terraform` · `Docker` · `Kubernetes` · `Linux`
+
+**CI/CD**
+
+`Azure DevOps` · `GitHub Actions` · `CI/CD Pipelines`
+
+**Governance**
+
+`Cloud Governance` · `IAM` · `Security` · `Compliance` · `Cost Management`
+
+---
+
+## 💻 Software Engineering
+
+Mi stack principal está orientado al desarrollo de aplicaciones empresariales, APIs, sistemas distribuidos y soluciones full stack.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,typescript,javascript,angular,nodejs,php&theme=dark" />
+
+</div>
+
+### Backend
+
+`Java` · `Spring Boot` · `Python` · `Node.js` · `PHP`
+
+### Frontend
+
+`Angular` · `TypeScript` · `JavaScript`
+
+### Databases
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase`
+
+### Architecture
+
+`Clean Architecture` · `Hexagonal Architecture` · `DDD` · `Microservices` · `REST APIs`
+
+---
+
+## 🔐 Security & DevSecOps
+
+La seguridad forma parte del ciclo completo de desarrollo y operación.
+
+**Security**
+
+`Cloud Security` · `IAM` · `Network Security` · `Security Controls` · `Compliance`
+
+**DevSecOps**
+
+`Secure CI/CD` · `Automation` · `Infrastructure Security` · `Security Testing`
+
+**Security Frameworks & Tools**
+
+`MITRE ATT&CK` · `Ethical Hacking` · `SOC` · `Git` · `Bash` · `Postman`
+
+---
+
+## 🏗️ Architecture Mindset
+
+```text
+                    BUSINESS
+                       │
+                       ▼
+              ┌─────────────────┐
+              │    ARCHITECTURE  │
+              └────────┬────────┘
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+      SOFTWARE       CLOUD       SECURITY
+          │            │            │
+          ▼            ▼            ▼
+      Microservices  Multi-Cloud  DevSecOps
+      Clean Arch.    Governance   Compliance
+      DDD            IaC          IAM
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+              AUTOMATION & CI/CD
+                       │
+                       ▼
+              SCALABLE SOLUTIONS
 ```
 
-</div>
+Mi objetivo no es únicamente desarrollar software, sino diseñar soluciones que puedan **evolucionar, escalar y mantenerse de forma sostenible**.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 What I Build
 
-Ingeniero en Sistemas con sólida experiencia en **desarrollo de software**, **QA** y **gestión de infraestructura cloud**. Me especializo en la implementación y automatización de entornos en **AWS, Azure y OCI**, integrando arquitecturas escalables, seguras y resilientes.
-
-Apasionado por la cultura **DevOps**, la estandarización de despliegues y la mejora continua. Trabajo bajo principios de **Clean Architecture**, **Domain-Driven Design (DDD)** y **microservicios**, garantizando eficiencia operativa y alineación estratégica entre tecnología y negocio.
-
----
-
-## ☁️ Cloud & DevOps
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" title="AWS"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" title="Azure"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" title="Terraform"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" title="Kubernetes"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" title="GitHub Actions"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux"/></a>
-
-</div>
-
-&nbsp;
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 💻 Desarrollo de Software
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" title="Angular"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" title="Firebase"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" title="MongoDB"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" title="PHP"/></a>
-
-</div>
-
-&nbsp;
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🔐 Ciberseguridad & Herramientas
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" title="Bash"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" title="GitHub"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" title="VS Code"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" title="Postman"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" width="48" title="Red Hat Linux"/></a>
-
-</div>
-
-&nbsp;
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Deloitte%20%7C%20ITSE-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC%20Analyst-Nivel%201-0078D7?style=for-the-badge&logo=microsoftdefender&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-FF6B00?style=for-the-badge&logo=target&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Firewall%20%7C%20Compliance-238636?style=for-the-badge&logo=shield&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joguerrero10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6AC1&text_color=FFFFFF"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=joguerrero10&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF6AC1&fire=FF6AC1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=888888)
-
-</div>
-
----
-
-## 🏢 Experiencia Profesional
-
-| 🏦 Empresa | 💼 Rol | 📅 Período |
-|:---|:---|:---|
-| **Ficohsa** | Regional Cloud Governance Specialist | Mar 2024 – Actualidad |
-| **UNOPS** | Analista Senior de Programación | Sep 2025 – Actualidad |
-| **ITSE** | Instructor | Sep 2025 – Actualidad |
-| **Banistmo** | Ingeniero de Software | Jun 2023 – Mar 2024 |
-| **Yappy** | QA / Full Stack Developer | Ene 2022 – Jun 2023 |
-| **Banco General** | Front End Developer | Ene 2021 – Dic 2022 |
-
----
-
-## 🎓 Educación
-
-- 🎓 **Licenciatura en Ciberseguridad** – Universidad Tecnológica de Panamá *(en curso)*
-- 🎓 **Ingeniería en Sistemas** – Universidad del Istmo *(2021)*
-- 📚 **Máster en Big Data & Visualización de Datos** – UNIR España *(en progreso)*
-
----
-
-## 📈 Áreas de expertise
-
-```
-☁️ Cloud Governance     ████████████████████  Experto
-⚙️ DevOps / CI-CD       ███████████████████░  Experto
-🏗️ Infraestructura IaC  ██████████████████░░  Avanzado
-💻 Full Stack Dev       █████████████████░░░  Avanzado
-🔐 Ciberseguridad       ████████████████░░░░  Avanzado
-📊 Big Data / BI        █████████████░░░░░░░  Intermedio-Avanzado
+```text
+☁️ Cloud Platforms
+🏗️ Enterprise Software Architecture
+🔐 Secure Applications & Infrastructure
+⚙️ CI/CD & DevOps Automation
+🧩 Microservices & APIs
+🏭 Infrastructure as Code
+📊 Data-driven Solutions
+💳 Financial Technology Solutions
 ```
 
 ---
 
-## 🤝 ¿Hablamos?
+## 📂 Featured Projects
+
+Algunos de mis proyectos y áreas de trabajo:
+
+### 🌎 World Cup Predictor AI
+
+Sistema de predicción y simulación de partidos de fútbol utilizando modelos estadísticos, machine learning y simulación de torneos.
+
+**Stack**
+
+`Python` · `FastAPI` · `PostgreSQL` · `XGBoost` · `Docker` · `Streamlit`
+
+---
+
+### 💳 Financial Software
+
+Desarrollo de soluciones orientadas al sector financiero utilizando arquitecturas modernas y prácticas de ingeniería de software.
+
+**Stack**
+
+`Java` · `Spring Boot` · `Angular` · `PostgreSQL` · `Docker` · `Cloud`
+
+---
+
+### ☁️ Cloud Governance
+
+Automatización y estandarización de entornos cloud mediante infraestructura como código, controles de seguridad y prácticas de gobierno.
+
+**Stack**
+
+`AWS` · `Azure` · `OCI` · `Terraform` · `DevOps`
+
+---
+
+## 💼 Professional Experience
+
+| Organization      | Role                                 | Period              |
+| ----------------- | ------------------------------------ | ------------------- |
+| **Ficohsa**       | Regional Cloud Governance Specialist | Mar 2024 – Present  |
+| **UNOPS**         | Senior Programming Analyst           | Sep 2025 – Present  |
+| **ITSE**          | Instructor                           | Sep 2025 – Present  |
+| **Banistmo**      | Software Engineer                    | Jun 2023 – Mar 2024 |
+| **Yappy**         | QA / Full Stack Developer            | Jan 2022 – Jun 2023 |
+| **Banco General** | Front End Developer                  | Jan 2021 – Dec 2022 |
+
+---
+
+## 🎓 Education
+
+🎓 **Engineering in Systems**
+Universidad del Istmo · 2021
+
+🎓 **Cybersecurity Degree**
+Universidad Tecnológica de Panamá · In progress
+
+📚 **Master in Big Data & Data Visualization**
+UNIR España · In progress
+
+---
+
+## 🧰 Technology Stack
 
 <div align="center">
 
-Abierto a colaborar en proyectos de **cloud**, **arquitectura de software**, **DevSecOps** y **automatización de infraestructura**.
+### Cloud
 
-&nbsp;
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform&theme=dark" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-guerrero0826/)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelg1014@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-joguerrero10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joguerrero10)
+### Backend
 
-&nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,php&theme=dark" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+🙌;¡Conectemos+y+construyamos+algo+épico!+🚀)
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript&theme=dark" />
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joguerrero10&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=joguerrero10&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+Si te interesa conversar sobre **software architecture, cloud, DevOps, DevSecOps, fintech o ingeniería de software**, conectemos.
+
+<br/><br/>
+
+<a href="https://portfolio-1a3e7.web.app/es">
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+<a href="https://www.linkedin.com/in/joel-guerrero0826/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/joguerrero10">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Build. Automate. Secure. Scale. 🚀**
 
 </div>
