@@ -1,304 +1,121 @@
 <div align="center">
 
-# 👋 Hola, soy Joel Guerrero
+# Hola, soy Joel Guerrero
 
-### Cloud Governance Specialist · Senior Software Engineer · DevSecOps
+**Ingeniero en Sistemas · Cloud Governance · Arquitectura de software · DevSecOps**
 
-Diseño y construyo soluciones de software **seguras, escalables y automatizadas**, combinando arquitectura de software, cloud, DevOps y desarrollo full stack.
+Trabajo en gobierno cloud en banca regional, desarrollo software en organismos internacionales y doy clases de programación.
+Me gusta que la arquitectura, la automatización y la seguridad se diseñen juntas desde el principio, no como parches al final.
 
+<a href="https://portfolio-1a3e7.web.app/es"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/joel-guerrero0826/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:joelg1014@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+## Ahora mismo
+
+- ☁️ **Ficohsa**: Especialista Regional de Cloud Governance (desde marzo 2024)
+- 💻 **UNOPS**: Analista Senior de Programación (desde septiembre 2025)
+- 🎓 **ITSE**: Instructor de Programación III y Desarrollo de Aplicaciones Móviles (desde septiembre 2025)
+- 🔐 Terminando la Licenciatura en Ciberseguridad en la UTP (trabajo de graduación sobre seguridad en Azure)
+- 📚 Estudiando TOGAF por mi cuenta
+
+---
+
+## Qué hago
+
+**Cloud y gobierno.** Estandarizo entornos multicloud (AWS, Azure y OCI) con Terraform, políticas de IAM, controles de seguridad, cumplimiento y gestión de costos.
+
+**Arquitectura de software.** Diseño aplicaciones empresariales con Clean Architecture, arquitectura hexagonal y DDD. Casi siempre en Java con Spring Boot, o en Python.
+
+**DevSecOps.** Pipelines de CI/CD en Azure DevOps y GitHub Actions con la seguridad integrada en el flujo, no revisada al final.
+
+**Docencia.** Preparo material y proyectos para cursos de programación y desarrollo móvil.
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,linux,githubactions&theme=dark" alt="Cloud y DevOps" />
 <br/>
-
-<a href="https://portfolio-1a3e7.web.app/es">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/joel-guerrero0826/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:joelg1014@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=joguerrero10&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## 🧑‍💻 Sobre mí
-
-Soy **Ingeniero en Sistemas** especializado en desarrollo de software, arquitectura, cloud y automatización.
-
-Actualmente trabajo en iniciativas relacionadas con **Cloud Governance**, mientras continúo desarrollando soluciones de software y profundizando en arquitectura, DevSecOps y seguridad.
-
-Mi enfoque combina:
-
-* 🏗️ **Software Architecture**
-* ☁️ **Multi-Cloud**
-* ⚙️ **DevOps & CI/CD**
-* 🔐 **DevSecOps & Cloud Security**
-* 🧩 **Clean Architecture & DDD**
-* 🚀 **Microservices**
-* 🏭 **Infrastructure as Code**
-* 📊 **Data & Analytics**
-
-Me interesa especialmente construir plataformas donde **arquitectura, automatización, seguridad y negocio trabajen como una sola unidad**.
-
----
-
-## ☁️ Cloud & Infrastructure
-
-Experiencia trabajando con diferentes ecosistemas cloud y herramientas de automatización:
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux&theme=dark" />
-
-</div>
-
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,typescript,angular&theme=dark" alt="Lenguajes y frameworks" />
 <br/>
-
-**Cloud**
-
-`AWS` · `Microsoft Azure` · `Oracle Cloud Infrastructure (OCI)`
-
-**Infrastructure & Platform**
-
-`Terraform` · `Docker` · `Kubernetes` · `Linux`
-
-**CI/CD**
-
-`Azure DevOps` · `GitHub Actions` · `CI/CD Pipelines`
-
-**Governance**
-
-`Cloud Governance` · `IAM` · `Security` · `Compliance` · `Cost Management`
-
----
-
-## 💻 Software Engineering
-
-Mi stack principal está orientado al desarrollo de aplicaciones empresariales, APIs, sistemas distribuidos y soluciones full stack.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,typescript,javascript,angular,nodejs,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Bases de datos" />
 
 </div>
 
-### Backend
-
-`Java` · `Spring Boot` · `Python` · `Node.js` · `PHP`
-
-### Frontend
-
-`Angular` · `TypeScript` · `JavaScript`
-
-### Databases
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase`
-
-### Architecture
-
-`Clean Architecture` · `Hexagonal Architecture` · `DDD` · `Microservices` · `REST APIs`
+| Área | Tecnologías |
+| --- | --- |
+| Cloud | AWS · Azure · Oracle Cloud Infrastructure (OCI) |
+| IaC y plataforma | Terraform · Docker · Linux |
+| CI/CD | Azure DevOps · GitHub Actions |
+| Backend | Java · Spring Boot · Python · FastAPI · Node.js · PHP |
+| Frontend | Angular · TypeScript · JavaScript |
+| Datos | PostgreSQL · MySQL · MongoDB · Firebase |
+| Arquitectura | Clean Architecture · Hexagonal · DDD · Microservicios · APIs REST |
+| Seguridad | IAM · Seguridad de red · Cloud Security · MITRE ATT&CK · Hacking ético · SOC |
 
 ---
 
-## 🔐 Security & DevSecOps
+## Proyectos destacados
 
-La seguridad forma parte del ciclo completo de desarrollo y operación.
+### ⚽ World Cup Predictor AI
+Predicción de partidos de fútbol y simulación de torneos con modelos estadísticos y machine learning.
+`Python` `FastAPI` `PostgreSQL` `XGBoost` `Docker` `Streamlit`
+<!-- Enlace al repo: https://github.com/joguerrero10/NOMBRE-DEL-REPO -->
 
-**Security**
+### 🧾 SmartPOS Pty
+Plataforma SaaS multi-tenant de punto de venta y ecommerce. Arquitectura hexagonal con DDD y aislamiento de datos por tenant con Row-Level Security en PostgreSQL.
+`Arquitectura hexagonal` `DDD` `PostgreSQL` `RLS` `Multi-tenant`
+<!-- Enlace al repo o demo -->
 
-`Cloud Security` · `IAM` · `Network Security` · `Security Controls` · `Compliance`
-
-**DevSecOps**
-
-`Secure CI/CD` · `Automation` · `Infrastructure Security` · `Security Testing`
-
-**Security Frameworks & Tools**
-
-`MITRE ATT&CK` · `Ethical Hacking` · `SOC` · `Git` · `Bash` · `Postman`
-
----
-
-## 🏗️ Architecture Mindset
-
-```text
-                    BUSINESS
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    ARCHITECTURE  │
-              └────────┬────────┘
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      SOFTWARE       CLOUD       SECURITY
-          │            │            │
-          ▼            ▼            ▼
-      Microservices  Multi-Cloud  DevSecOps
-      Clean Arch.    Governance   Compliance
-      DDD            IaC          IAM
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-              AUTOMATION & CI/CD
-                       │
-                       ▼
-              SCALABLE SOLUTIONS
-```
-
-Mi objetivo no es únicamente desarrollar software, sino diseñar soluciones que puedan **evolucionar, escalar y mantenerse de forma sostenible**.
+### ☁️ Cloud Governance como código
+Automatización de entornos cloud con infraestructura como código, controles de seguridad y prácticas de gobierno.
+`AWS` `Azure` `OCI` `Terraform` `Azure DevOps`
+<!-- Si el código es de la empresa, enlaza un repo de ejemplo propio o quita esta tarjeta -->
 
 ---
 
-## 🚀 What I Build
+## Experiencia
 
-```text
-☁️ Cloud Platforms
-🏗️ Enterprise Software Architecture
-🔐 Secure Applications & Infrastructure
-⚙️ CI/CD & DevOps Automation
-🧩 Microservices & APIs
-🏭 Infrastructure as Code
-📊 Data-driven Solutions
-💳 Financial Technology Solutions
-```
+| Organización | Rol | Periodo |
+| --- | --- | --- |
+| **Ficohsa** | Especialista Regional de Cloud Governance | Mar 2024 – Actualidad |
+| **Banistmo** | Ingeniero de Software | Jun 2023 – Mar 2024 |
+| **Yappy** | QA Engineer / Desarrollador Full Stack | Ene 2022 – Jun 2023 |
+| **Banco General** | Desarrollador Front End | Ene 2021 – Dic 2022 |
 
 ---
 
-## 📂 Featured Projects
+## Formación y certificaciones
 
-Algunos de mis proyectos y áreas de trabajo:
-
-### 🌎 World Cup Predictor AI
-
-Sistema de predicción y simulación de partidos de fútbol utilizando modelos estadísticos, machine learning y simulación de torneos.
-
-**Stack**
-
-`Python` · `FastAPI` · `PostgreSQL` · `XGBoost` · `Docker` · `Streamlit`
+- 🎓 **Ingeniería en Sistemas**, Universidad del Istmo (2021)
+- 🎓 **Licenciatura en Ciberseguridad**, Universidad Tecnológica de Panamá (en trabajo de graduación)
+- 📚 **Máster en Big Data**, UNIR España (en pausa)
+- 🛡️ Hacking Ético, Deloitte / ITSE (2023)
+- 🛡️ Bootcamp Analista SOC Nivel 1, Comunidad Dojo (2022)
+- 🔁 Scrum Master, Udemy (2020)
 
 ---
 
-### 💳 Financial Software
-
-Desarrollo de soluciones orientadas al sector financiero utilizando arquitecturas modernas y prácticas de ingeniería de software.
-
-**Stack**
-
-`Java` · `Spring Boot` · `Angular` · `PostgreSQL` · `Docker` · `Cloud`
-
----
-
-### ☁️ Cloud Governance
-
-Automatización y estandarización de entornos cloud mediante infraestructura como código, controles de seguridad y prácticas de gobierno.
-
-**Stack**
-
-`AWS` · `Azure` · `OCI` · `Terraform` · `DevOps`
-
----
-
-## 💼 Professional Experience
-
-| Organization      | Role                                 | Period              |
-| ----------------- | ------------------------------------ | ------------------- |
-| **Ficohsa**       | Regional Cloud Governance Specialist | Mar 2024 – Present  |
-| **UNOPS**         | Senior Programming Analyst           | Sep 2025 – Present  |
-| **ITSE**          | Instructor                           | Sep 2025 – Present  |
-| **Banistmo**      | Software Engineer                    | Jun 2023 – Mar 2024 |
-| **Yappy**         | QA / Full Stack Developer            | Jan 2022 – Jun 2023 |
-| **Banco General** | Front End Developer                  | Jan 2021 – Dec 2022 |
-
----
-
-## 🎓 Education
-
-🎓 **Engineering in Systems**
-Universidad del Istmo · 2021
-
-🎓 **Cybersecurity Degree**
-Universidad Tecnológica de Panamá · In progress
-
-📚 **Master in Big Data & Data Visualization**
-UNIR España · In progress
-
----
-
-## 🧰 Technology Stack
+## Actividad
 
 <div align="center">
 
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,php&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript&theme=dark" />
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash&theme=dark" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joguerrero10&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=joguerrero10&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=joguerrero10&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-Si te interesa conversar sobre **software architecture, cloud, DevOps, DevSecOps, fintech o ingeniería de software**, conectemos.
-
-<br/><br/>
-
-<a href="https://portfolio-1a3e7.web.app/es">
-<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-<a href="https://www.linkedin.com/in/joel-guerrero0826/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/joguerrero10">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Build. Automate. Secure. Scale. 🚀**
+¿Quieres hablar de arquitectura, cloud, DevSecOps o fintech? Escríbeme por [LinkedIn](https://www.linkedin.com/in/joel-guerrero0826/) o al [correo](mailto:joelg1014@hotmail.com).
 
 </div>
