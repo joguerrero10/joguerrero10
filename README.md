@@ -18,8 +18,7 @@ Me gusta que la arquitectura, la automatización y la seguridad se diseñen junt
 ## Ahora mismo
 
 - ☁️ **Ficohsa**: Especialista Regional de Cloud Governance (desde marzo 2024)
-- 🔐 Terminando la Licenciatura en Ciberseguridad en la UTP (trabajo de graduación sobre seguridad en Azure)
-- 📚 Estudiando TOGAF por mi cuenta
+- 🎓 Recién terminé la Licenciatura en Ciberseguridad en la UTP; mi trabajo de graduación fue sobre seguridad en Azure
 
 ---
 
@@ -91,7 +90,7 @@ Automatización de entornos cloud con infraestructura como código, controles de
 ## Formación y certificaciones
 
 - 🎓 **Ingeniería en Sistemas**, Universidad del Istmo (2021)
-- 🎓 **Licenciatura en Ciberseguridad**, Universidad Tecnológica de Panamá (en trabajo de graduación)
+- 🎓 **Licenciatura en Ciberseguridad**, Universidad Tecnológica de Panamá (culminada, diploma en trámite)
 - 📚 **Máster en Big Data**, UNIR España (en pausa)
 - 🛡️ Hacking Ético, Deloitte / ITSE (2023)
 - 🛡️ Bootcamp Analista SOC Nivel 1, Comunidad Dojo (2022)
