@@ -18,8 +18,6 @@ Me gusta que la arquitectura, la automatización y la seguridad se diseñen junt
 ## Ahora mismo
 
 - ☁️ **Ficohsa**: Especialista Regional de Cloud Governance (desde marzo 2024)
-- 💻 **UNOPS**: Analista Senior de Programación (desde septiembre 2025)
-- 🎓 **ITSE**: Instructor de Programación III y Desarrollo de Aplicaciones Móviles (desde septiembre 2025)
 - 🔐 Terminando la Licenciatura en Ciberseguridad en la UTP (trabajo de graduación sobre seguridad en Azure)
 - 📚 Estudiando TOGAF por mi cuenta
 
