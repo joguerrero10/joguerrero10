@@ -4,12 +4,12 @@
 
 **Ingeniero en Sistemas · Cloud Governance · Arquitectura de software · DevSecOps**
 
-Trabajo en gobierno cloud en banca regional, desarrollo software en organismos internacionales y doy clases de programación.
+Trabajo en gobierno cloud para banca regional y desarrollo software empresarial.
 Me gusta que la arquitectura, la automatización y la seguridad se diseñen juntas desde el principio, no como parches al final.
 
-<a href="https://portfolio-1a3e7.web.app/es" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logoColor=red" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/joel-guerrero0826/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:joelg1014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portfolio-1a3e7.web.app/es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/joel-guerrero0826/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:joelg1014@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -30,8 +30,6 @@ Me gusta que la arquitectura, la automatización y la seguridad se diseñen junt
 **Arquitectura de software.** Diseño aplicaciones empresariales con Clean Architecture, arquitectura hexagonal y DDD. Casi siempre en Java con Spring Boot, o en Python.
 
 **DevSecOps.** Pipelines de CI/CD en Azure DevOps y GitHub Actions con la seguridad integrada en el flujo, no revisada al final.
-
-**Docencia.** Preparo material y proyectos para cursos de programación y desarrollo móvil.
 
 ---
 
@@ -114,6 +112,6 @@ Automatización de entornos cloud con infraestructura como código, controles de
 
 <div align="center">
 
-¿Quieres hablar de arquitectura, cloud, DevSecOps o fintech? Escríbeme por [LinkedIn](https://www.linkedin.com/in/joel-guerrero0826/) o al [correo](mailto:joelg1014@hotmail.com).
+¿Quieres hablar de arquitectura, cloud, DevSecOps o fintech? Escríbeme por <a href="https://www.linkedin.com/in/joel-guerrero0826/" target="_blank" rel="noopener noreferrer">LinkedIn</a> o al <a href="mailto:joelg1014@hotmail.com">correo</a>.
 
 </div>
