@@ -102,8 +102,8 @@ Automatización de entornos cloud con infraestructura como código, controles de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joguerrero10&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats-six-zeta-80.vercel.app/api?username=joguerrero10&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats-six-zeta-80.vercel.app/api/top-langs/?username=joguerrero10&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
 
 </div>
 
